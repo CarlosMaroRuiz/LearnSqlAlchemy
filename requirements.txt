@@ -4,3 +4,5 @@ pydantic[email]
 passlib[bcrypt]
 python-dotenv
 sqlalchemy
+fastapi  
+uvicorn
