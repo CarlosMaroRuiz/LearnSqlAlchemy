@@ -1,0 +1,6 @@
+pymysql
+pydantic
+pydantic[email]
+passlib[bcrypt]
+python-dotenv
+sqlalchemy
