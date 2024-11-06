@@ -1,4 +1,4 @@
-# Configuración del Bucket de S3 en un Servidor EC2
+# Configuración del Bucket de S3 en un Servidor EC2 y desarrollo en distribuciones de linux
 
 Para configurar el acceso al bucket de S3 en un servidor EC2 para un entorno de producción, sigue estos pasos:
 
