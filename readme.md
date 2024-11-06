@@ -15,8 +15,8 @@ nano ~/.aws/credentials
 
 ```bash
 [default]
-aws_access_key_id = TU_ACCESS_KEY_ID
-aws_secret_access_key = TU_SECRET_ACCESS_KEY
+aws_access_key_id = 
+aws_secret_access_key = 
 ```
 
 ## Verifcar si instalo
