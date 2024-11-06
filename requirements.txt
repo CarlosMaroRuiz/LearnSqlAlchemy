@@ -6,3 +6,7 @@ python-dotenv
 sqlalchemy
 fastapi  
 uvicorn
+boto3
+python-jose
+python-multipart
+requests

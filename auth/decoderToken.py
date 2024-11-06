@@ -9,7 +9,7 @@ ALGORITHM = "HS256"
 
 # Dependencia para verificar el token sin pasar request explícitamente
 def get_current_user(request: Request) -> str:
-    token = request.headers.get("Authorization")  # Obtener el token desde el header
+    token = request.headers.get("Authorization")  # se obtiene el token desde el header
     print(token)
     
     if not token or not token.startswith("Bearer "):
