@@ -10,3 +10,4 @@ boto3
 python-jose
 python-multipart
 requests
+psycopg2-binary
